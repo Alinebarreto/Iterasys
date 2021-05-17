@@ -1,0 +1,18 @@
+{
+    "id": 405060,
+    "category": {
+      "id": 0,
+      "name": "dog"
+    },
+    "name": "Brutus",
+    "photoUrls": [
+      "testeAline"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Teste2"
+      }
+    ],
+    "status": "delivered"
+  }
